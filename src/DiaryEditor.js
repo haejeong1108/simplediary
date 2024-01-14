@@ -30,7 +30,7 @@ const DiaryEditor = () => {
   };
 
   return (
-    <div className="DairyEditor">
+    <div className="DiaryEditor">
       <h2>今日の日記</h2>
       <div>
         <input
