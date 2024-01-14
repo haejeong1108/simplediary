@@ -1,0 +1,27 @@
+.DairyEditor{
+  border: 1px solid gray;
+  text-align: center;
+  padding: 20px;
+}
+
+.DairyEditor input, textarea{
+  margin-bottom: 20px;
+  width: 500px;
+  padding: 10px;
+}
+
+.DairyEditor textarea{
+  height: 150px;
+}
+
+.DairyEditor select{
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.DairyEditor button{
+  width: 500px;
+  padding: 10px;
+  cursor: pointer;
+}
